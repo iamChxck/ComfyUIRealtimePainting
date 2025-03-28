@@ -6,7 +6,6 @@ public class GeneratedImageLoader : MonoBehaviour
 {
     [SerializeField] string historyUrl = "http://127.0.0.1:8188/history/";
     ComfyPromptCtr promptCtr;
-    bool hasStarted = false;
     string fileName;
 
     private void Start()
@@ -67,8 +66,8 @@ public class GeneratedImageLoader : MonoBehaviour
             if (webRequest.result == UnityWebRequest.Result.Success)
             {
                 Texture2D texture = DownloadHandlerTexture.GetContent(webRequest);
-                Sprite sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), Vector2.zero);
-                UIManager.Instance.SetGeneratedImage(sprite);
+                //Sprite sprite = Sprite.Create(texture, new Rect(0, 0, texture.width, texture.height), Vector2.zero);
+                UIManager.Instance.SetGeneratedImage(texture);
                 promptCtr.QueuePrompt();
             }
             else
@@ -78,13 +77,8 @@ public class GeneratedImageLoader : MonoBehaviour
         }
     }
 
-    public void StartCapture()
+    public string GetFileName()
     {
-        hasStarted = true;
-    }
-
-    public void StopCapture()
-    {
-        hasStarted = false;
+        return fileName;
     }
 }

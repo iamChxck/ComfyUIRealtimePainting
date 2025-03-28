@@ -6,8 +6,8 @@ public class UIManager : MonoBehaviour
 {
     public static UIManager Instance;
 
-    [SerializeField] Image generatedImage;
-    [SerializeField] TMP_InputField inputField;
+    [SerializeField] RawImage generatedImage;
+    [SerializeField] GameObject qrCodeImage; 
 
     private void Awake()
     {
@@ -19,13 +19,18 @@ public class UIManager : MonoBehaviour
         Instance = this;
     }
 
-    public void SetGeneratedImage(Sprite sprite)
+    public void SetGeneratedImage(Texture2D texture)
     {
-        generatedImage.sprite = sprite;
+        generatedImage.texture = texture;
     }
 
-    public string GetInputField()
+    public void SetQRCodeImage(Texture2D texture)
     {
-        return inputField.text;
+        qrCodeImage.GetComponent<RawImage>().texture = texture;
+    }
+
+    public void ToggleQRCodeImage(bool state)
+    {
+        qrCodeImage.SetActive(state);
     }
 }

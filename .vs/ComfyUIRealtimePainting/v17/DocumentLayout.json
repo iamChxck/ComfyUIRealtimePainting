@@ -3,15 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uploadimage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\qrcodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\qrcodemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\imagecleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\imagecleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\scripts\\comfyui\\generatedimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comfyui\\generatedimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\scripts\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\unity-color-picker\\assets\\colorpicker\\scripts\\inputcolorchannels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\unity-color-picker\\assets\\colorpicker\\scripts\\inputcolorchannels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\unity-color-picker\\assets\\colorpicker\\scripts\\inputcolorchannels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -51,19 +67,71 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:25:10.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UploadImage.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\UploadImage.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UploadImage.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\UploadImage.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UploadImage.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAwwBQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:17:29.4Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "QRCodeManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\QRCodeManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\QRCodeManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\QRCodeManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\QRCodeManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T10:17:12.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ImageCleanup.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ImageCleanup.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ImageCleanup.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ImageCleanup.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ImageCleanup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-28T09:38:04.717Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "GeneratedImageLoader.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
               "RelativeToolTip": "Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
-              "ViewState": "AgIAAB8AAAAAABBgzBMQwDwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAADAAAAAAAAAAAAA0wEUAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-28T09:03:45.542Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "DisplayManager.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\DisplayManager.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\DisplayManager.cs",
@@ -71,12 +139,11 @@
               "RelativeToolTip": "Assets\\Scripts\\DisplayManager.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T09:17:56.648Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T09:17:56.648Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "ComfyPromptCtr.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\ComfyPromptCtr.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ComfyUI\\ComfyPromptCtr.cs",
@@ -88,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "PromptButton.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\PromptButton.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PromptButton.cs",
@@ -100,7 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Drawable.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\Drawable.cs",
               "RelativeDocumentMoniker": "Assets\\FreeDraw\\Scripts\\Drawable.cs",
@@ -112,7 +179,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "InputColorChannels.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
               "RelativeDocumentMoniker": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
@@ -120,12 +187,11 @@
               "RelativeToolTip": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABNAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:11:56.939Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-17T09:11:56.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "HsbPicker.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\HsbPicker.cs",
               "RelativeDocumentMoniker": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\HsbPicker.cs",
@@ -137,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "ColorPicker.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\ColorPicker.cs",
               "RelativeDocumentMoniker": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\ColorPicker.cs",
@@ -149,7 +215,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "DrawingSettings.cs",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
               "RelativeDocumentMoniker": "Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
