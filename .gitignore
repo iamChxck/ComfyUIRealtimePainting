@@ -1,0 +1,24 @@
+# Ignore Unity-generated folders
+Library/
+Temp/
+Logs/
+obj/
+Build/
+UserSettings/
+
+# Ignore Visual Studio/JetBrains project files
+.vscode/
+*.csproj
+*.sln
+*.unityproj
+*.user
+*.suo
+*.pidb
+*.booproj
+*.svd
+
+# Ignore Git LFS cache
+.git/lfs/
+
+# Ignore Plastic SCM folders (if previously used)
+.plastic/
