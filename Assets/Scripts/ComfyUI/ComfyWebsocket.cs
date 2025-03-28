@@ -62,7 +62,7 @@ public class ComfyWebsocket : MonoBehaviour
 
                 if (response.Contains("\"queue_remaining\": 0"))
                 {
-                    //generatedImageLoader.LoadLatestImage();
+                    generatedImageLoader.LoadLatestImage(promptID);
                 }
             }
         }

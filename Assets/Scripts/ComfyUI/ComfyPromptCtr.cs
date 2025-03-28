@@ -13,11 +13,12 @@ public class ResponseData
 public class ComfyPromptCtr : MonoBehaviour
 {
     string promptJson;
+    [SerializeField] PromptButton[] promptButtons;
 
     private void Start()
     {
-        //LoadPromptsJson();
-        //QueuePrompt();
+        LoadPromptsJson();
+        QueuePrompt();
     }
 
     private void LoadPromptsJson()
@@ -52,7 +53,7 @@ public class ComfyPromptCtr : MonoBehaviour
         }
 
         string promptText = GeneratePromptJson();
-        promptText = promptText.Replace("Pprompt", CheckIfInputFieldIsEmpty());
+        promptText = promptText.Replace("Pprompt", LoadPrompt());
 
         UnityWebRequest request = new UnityWebRequest(url, "POST");
         byte[] bodyRaw = System.Text.Encoding.UTF8.GetBytes(promptText);
@@ -75,13 +76,16 @@ public class ComfyPromptCtr : MonoBehaviour
         }
     }
 
-    string CheckIfInputFieldIsEmpty()
+    string LoadPrompt()
     {
-        if (UIManager.Instance.GetInputField() == string.Empty)
+        for(int i = 0; i < promptButtons.Length; i++)
         {
-            return "Anime";
+            if (promptButtons[i].GetIsSelected())
+            {
+                return promptButtons[i].GetPrompt();
+            }
         }
-        return UIManager.Instance.GetInputField();
+        return promptButtons[0].GetPrompt();
     }
 
     private string GeneratePromptJson()
