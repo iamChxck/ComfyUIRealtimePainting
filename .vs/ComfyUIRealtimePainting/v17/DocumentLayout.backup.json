@@ -1,46 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\",
+  "WorkspaceRootPath": "C:\\Users\\Lapto\\Documents\\GitHub\\ComfyUIRealtimePainting\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\imagecleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\imagecleanup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\user\\desktop\\chuck\\unity\\comfyuirealtimepainting\\assets\\scripts\\comfyui\\generatedimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comfyui\\generatedimageloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\scripts\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\displaymanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\unity-color-picker\\assets\\colorpicker\\scripts\\inputcolorchannels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\unity-color-picker\\assets\\colorpicker\\scripts\\inputcolorchannels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\scripts\\comfyui\\comfypromptctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\comfyui\\comfypromptctr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\scripts\\promptbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\promptbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\freedraw\\scripts\\drawingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|c:\\users\\lapto\\documents\\github\\comfyuirealtimepainting\\assets\\freedraw\\scripts\\drawingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\freedraw\\scripts\\drawingsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\freedraw\\scripts\\drawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\freedraw\\scripts\\drawable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\unity-color-picker\\assets\\colorpicker\\scripts\\hsbpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\unity-color-picker\\assets\\colorpicker\\scripts\\hsbpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\assets\\unity-color-picker\\assets\\colorpicker\\scripts\\colorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5A803B54-6907-DA5C-B563-064CF1D96CB7}|Assembly-CSharp.csproj|solutionrelative:assets\\unity-color-picker\\assets\\colorpicker\\scripts\\colorpicker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -55,124 +19,15 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ImageCleanup.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ImageCleanup.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ImageCleanup.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ImageCleanup.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ImageCleanup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAABVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T09:38:04.717Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "GeneratedImageLoader.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ComfyUI\\GeneratedImageLoader.cs",
-              "ViewState": "AgIAAB8AAAAAABBgzBMQwDwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T09:03:45.542Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "DisplayManager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\DisplayManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\DisplayManager.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\DisplayManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\DisplayManager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T09:17:56.648Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ComfyPromptCtr.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\ComfyPromptCtr.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ComfyUI\\ComfyPromptCtr.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\ComfyUI\\ComfyPromptCtr.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ComfyUI\\ComfyPromptCtr.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAUwFYAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T09:04:51.662Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "PromptButton.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\PromptButton.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PromptButton.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\Scripts\\PromptButton.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PromptButton.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAQwCkAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T08:54:25.895Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Drawable.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\Drawable.cs",
-              "RelativeDocumentMoniker": "Assets\\FreeDraw\\Scripts\\Drawable.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\Drawable.cs",
-              "RelativeToolTip": "Assets\\FreeDraw\\Scripts\\Drawable.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T08:25:51.941Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "InputColorChannels.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
-              "RelativeDocumentMoniker": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
-              "RelativeToolTip": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\InputColorChannels.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-17T09:11:56.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "HsbPicker.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\HsbPicker.cs",
-              "RelativeDocumentMoniker": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\HsbPicker.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\HsbPicker.cs",
-              "RelativeToolTip": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\HsbPicker.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAABRwDUAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:50:24.864Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ColorPicker.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\ColorPicker.cs",
-              "RelativeDocumentMoniker": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\ColorPicker.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\ColorPicker.cs",
-              "RelativeToolTip": "Assets\\unity-color-picker\\Assets\\ColorPicker\\Scripts\\ColorPicker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:16:49.184Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
               "Title": "DrawingSettings.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
+              "DocumentMoniker": "C:\\Users\\Lapto\\Documents\\GitHub\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
               "RelativeDocumentMoniker": "Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\CHUCK\\Unity\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
+              "ToolTip": "C:\\Users\\Lapto\\Documents\\GitHub\\ComfyUIRealtimePainting\\Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
               "RelativeToolTip": "Assets\\FreeDraw\\Scripts\\DrawingSettings.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwDkAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-14T09:13:55.327Z"
+              "WhenOpened": "2025-03-28T07:52:31.944Z",
+              "EditorCaption": ""
             }
           ]
         }
